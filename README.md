@@ -50,6 +50,5 @@ upgrade.py	# code for the latest database upgrade, if conversion needed.
 console.py	# to be run interactively, sets up for access to all above
 
 # Link to DB
-https://drive.google.com/file/d/1PA-rUrW9meDZoAbxmCJ0bbAYBuolH7yZ/view?usp=sharing
 
 
