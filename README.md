@@ -4,8 +4,8 @@ This is a tool that was used to track the activity of CASH traders on LocalBitco
 
 # HOOPS TO JUMP THROUGH FOR INSTALLATION
 
-# you might need to install python-dev and python-tk
-# if error on python-tk, try: pip install python-tk after virtualenv step below
+ you might need to install python-dev and python-tk
+ if error on python-tk, try: pip install python-tk after virtualenv step below
 sudo apt-get install python-dev python-tk
 
 # clone the repo
